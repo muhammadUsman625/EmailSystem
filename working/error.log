@@ -1,0 +1,14 @@
+java.lang.NoClassDefFoundError: javax/mail/internet/AddressException
+	at email2.pkg0.Email20.main(Email20.java:42)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:62)
+	at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:101)
+Caused by: java.lang.ClassNotFoundException: javax.mail.internet.AddressException
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 7 more

@@ -1,0 +1,7 @@
+*.iml
+.idea/*
+prj/*
+settings/*
+store/*
+dist/*
+commons-email-1.4/*
